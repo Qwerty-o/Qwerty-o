@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qwerty-o
+- 👋 Hi, I’m sejal!!
 - 👀 I’m interested in coding, writing, and reading
 - 🌱 I’m currently learning java and python
 
